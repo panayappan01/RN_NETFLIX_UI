@@ -1,5 +1,4 @@
+import Profiles from "./Profiles";
 import TabIcon from "./TabIcon";
-
-export {
-    TabIcon,
-};
+import ProgressBar from "./ProgressBar";
+export { TabIcon, Profiles, ProgressBar };
